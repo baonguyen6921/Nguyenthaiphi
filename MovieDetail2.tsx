@@ -63,12 +63,7 @@ function MovieDetail2({navigation}): JSX.Element {
 
                     <Text style={{ fontSize: 15, fontWeight: 'bold' }}>
                         Batman v Superman: Dawn of Justice is a 2016 superhero film based
-                        on the DC Comics superheroes Batman and Superman. Co-produced by
-                        Atlas Entertainment and Cruel and Unusual Films and distributed by
-                        Warner Bros. Pictures, the film is a follow-up to Man of Steel and
-                        the second installment in the DC Extended Universe. It was
-                        released on March 25, 2016 in DCP, IMAX 15/70mm and 5/70mm
-                        formats.
+                        
                     </Text>
                     <View style={styles.lineStyle}/>
 
@@ -147,7 +142,7 @@ const styles = StyleSheet.create({
         flex: 4,
 
     },
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
 
 });
 
